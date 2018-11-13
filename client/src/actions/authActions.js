@@ -13,6 +13,3 @@ export const registerUser = (userData, history) => dispatch => {
       })
     );
 };
-
-
-};
