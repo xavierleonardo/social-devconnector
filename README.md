@@ -2,9 +2,9 @@
 
 This is a social application build during [this MERN Stack course](https://www.udemy.com/mern-stack-front-to-back/) on [Udemy](https://www.udemy.com).
 
-See it in [production here](https://dry-badlands-81039.herokuapp.com/)
+See it in [production here](https://dry-badlands-81039.herokuapp.com)
 
-Feel free to contribute or just see project
+Feel free to contribute or just look around
 
 ## Setup this project on your machine
 
